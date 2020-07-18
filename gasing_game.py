@@ -1,14 +1,3 @@
-'''first download the file 
-2)open command prommt 
-3)check the python version it should be grater than 3.0
-4)Then install the pygame module with command 'pip install pygame '
-5)it will install the pygame module
-6)check the installion with 'import pygame ' if it does not show any error that 
- you are ready to run the code
-  just go the file where the file is stored and type 'python gassing_game.py'
-
-  do it and enjoy the game
-'''
 import pygame
 import sys
 from pygame.locals import *
